@@ -1,3 +1,5 @@
+following the tutorial on https://www.youtube.com/watch?v=rtrGoGsMVlI&list=PLgG0XDQqJckkSJDPhXsFU_RIqEh08nG0V
+
 # ros2-teaching-ws
 A template repository for teaching robotics with ROS2
 
